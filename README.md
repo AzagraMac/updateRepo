@@ -1,3 +1,5 @@
+![alt text](https://travis-ci.com/AzagraMac/updateRepo.svg?branch=master)
+
 # Update repo script
 
 Move script to /usr/bin

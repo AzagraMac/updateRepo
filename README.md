@@ -1,4 +1,4 @@
-![platform](https://img.shields.io/badge/shell-linux-lightgrey.svg)
+![platform](https://img.shields.io/badge/shell-linux-lightgrey.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/updateRepo/master.svg)
 
 # Update repo script
 

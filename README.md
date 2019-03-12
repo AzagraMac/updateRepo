@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/badge/shell-linux-lightgrey.svg)]
+![Build Status](https://img.shields.io/badge/shell-linux-lightgrey.svg)
 
 # Update repo script
 

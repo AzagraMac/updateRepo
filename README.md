@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/AzagraMac/updateRepo.svg?branch=master)](https://travis-ci.com/AzagraMac/updateRepo)
+[![Build Status](https://img.shields.io/badge/shell-linux-lightgrey.svg)]
 
 # Update repo script
 

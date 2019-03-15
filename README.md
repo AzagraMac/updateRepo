@@ -2,18 +2,18 @@
 
 # Update repo script
 
-Move script to /usr/bin
-```
+#### Move script to /usr/bin
+```sh
 sudo mv updateRepo.sh /usr/bin
 ``` 
 
-Change permissions
-```
+#### Change permissions
+```sh
 sudo chmod a+x /usr/bin/updateRepo.sh
 ```
 
-Execute:
-```
-$ updateRepo.sh parameter1...
+#### Execute:
+```sh
+updateRepo.sh parameter1...
 ```
 
